@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/RichEditContextMenu/Form1.cs) (VB: [Form1.vb](./VB/RichEditContextMenu/Form1.vb))
+* [Program.cs](./CS/RichEditContextMenu/Program.cs) (VB: [Program.vb](./VB/RichEditContextMenu/Program.vb))
+<!-- default file list end -->
 #  How to customize the WinForms RichEditControl popup menu
 
 
