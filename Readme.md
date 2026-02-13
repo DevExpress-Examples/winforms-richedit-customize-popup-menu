@@ -22,7 +22,7 @@ In the event handler, remove or disable the existing menu items, create a menu i
 
 * [Pop-up Menus in Rich Text Editor](https://docs.devexpress.com/WindowsForms/119048/controls-and-libraries/rich-text-editor/visual-elements/pop-up-menus)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-richedit-customize-popup-menu&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-richedit-customize-popup-menu&~~~was_helpful=no)
 
